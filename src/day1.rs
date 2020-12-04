@@ -1,3 +1,6 @@
+// Check out the post that accompanies this.
+// https://michaelmelanson.substack.com/p/advent-of-code-2020-day-1
+
 use std::str::FromStr;
 
 #[aoc_generator(day1)]
